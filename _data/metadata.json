@@ -3,7 +3,7 @@
   "url": "https://myurl.com/",
   "description": "I am writing about my experiences as a boring boring-swirler.",
   "feed": {
-    "subtitle": "I am writing about my experiences as a naval navel-gazer.",
+    "subtitle": "I am writing about my experiences as a boring boring swirler.",
     "filename": "feed.xml",
     "path": "/feed/feed.xml",
     "url": "https://myurl.com/feed/feed.xml",
